@@ -24,13 +24,13 @@ span{
 }/class_style/
 span:nth-child(1){
     display: block;
-    font-size: 28px;
+    font-size: 35px;
     text-align: center;
 
 }/class_style/
 span:nth-child(2){
     display: block;
-    font-size: 40px;
+    font-size: 30px;
     margin:0 0 3% 0 ;
 }/class_style/
 <!-- -->
