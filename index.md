@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SOP</title>
+    <link rel="stylesheet" href="style.css">
 
-You can use the [editor on GitHub](https://github.com/jilaayoubi/jilaayoubusop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jilaayoubi/jilaayoubusop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</head>
+<body>
+<div>
+    <span>به نام خدا</span>
+    <span>انگيزه نامه</span>
+    <span>
+با سلام 
+اینجانب جیلا ایوبی دانشجوی رشته مهندسی کامپیوتر گرایش نرم افزار در دانشگاه پیام نور مرکز ورامین 
+من این رشته را انتخاب کردم چون میخواهم مسیر شغلی خود را عوض کنم .هدف من در زندگی این است که برای دیگران مفید باشم و مهارتهایی را یاد بگیرم که دیگران به آن نیاز دارند‌.
+و این برای من موفقیت نهایی محسوب می شود .
+من فکر می کنم این رشته بهترین حرکتی است برای رسیدن به شغل مدنظرم در آینده .
+دانشجویان پیشین مرا در انتخاب دانشگاه پیام نور مرکز ورامین تحت تاثیر قرار داده اند .این به من اطمینان می دهد که این دانشگاه شغل مرا در آینده در مسیر درست پش خواهد برد. من اشتیاق نامحدود برای یادگیری به این رشته را دارم ، تمایل به یادگیری مهارتهایی که برای دیگران مفید است مرا به حرکت در می آورد و به من انگیزه می دهد .
+من می توانم برای یک دوره زمانی طولانی روی یک کار تمرکز کنم .طول توجه من بسیار طولانی است ،این یک سرمایه هم برای من و هم برای کسانی است که قرار است در اینده با انها کار کنم .
+       
+</span>
+</div>
+</body>
